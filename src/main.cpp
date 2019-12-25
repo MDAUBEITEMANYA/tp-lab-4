@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+
 	Automata coffeeAutomata;
 	coffeeAutomata.on();
 	coffeeAutomata.coin(40);

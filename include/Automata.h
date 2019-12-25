@@ -8,6 +8,7 @@ private:
 	int prices[5] = { 30,40,50,30,30 };
 	STATES state;
 public:
+
 	Automata();
 	void on();
 	void off();

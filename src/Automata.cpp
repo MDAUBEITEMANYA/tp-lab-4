@@ -4,6 +4,7 @@ using namespace std;
 
 Automata::Automata() {
 	state = OFF;
+
 }
 
 void Automata::on() {

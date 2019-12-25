@@ -7,6 +7,7 @@ TEST(lab4,task1)
 	Automata drink;
 	res = drink.getState();
 	EXPECT_EQ(STATES::OFF, res);
+
 }
 
 TEST(lab4,task2)
